@@ -38,7 +38,7 @@ Python wrapper for the UnRAR DLL.
 %license LICENSE
 
 %changelog
-* Fri Jun 23 2006 Amelia Bartlett <fedora-packaging@amelia-bartlett.net> - 0.1.7-1
+* Fri Sep 18 2026 Amelia Bartlett <fedora-packaging@amelia-bartlett.net> - 0.1.7-1
 - Update version
 
 * Sun May 19 2019 Xxx Xxx <xxx@xxx.xxx> - 0.1.3-1
