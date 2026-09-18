@@ -2,7 +2,7 @@
 %global sum Python wrapper for the UnRAR DLL
 
 Name:           python-unrardll
-Version:        0.1.3
+Version:        0.1.7
 Release:        1%{?dist}
 Summary:        Python wrapper for the UnRAR DLL
 
@@ -38,5 +38,8 @@ Python wrapper for the UnRAR DLL.
 %license LICENSE
 
 %changelog
+* Fri Jun 23 2006 Amelia Bartlett <fedora-packaging@amelia-bartlett.net> - 0.1.7-1
+- Update version
+
 * Sun May 19 2019 Xxx Xxx <xxx@xxx.xxx> - 0.1.3-1
 - Initial packaging
